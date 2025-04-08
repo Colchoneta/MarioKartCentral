@@ -152,6 +152,10 @@ const es: Translation = {
     MORE_RECENT_TRANSACTIONS: 'More Recent Transactions',
     VIEW_ALL_ANNOUNCEMENTS: 'View all Announcements',
   },
+  IMAGES: {
+    UPLOAD_IMAGE: 'Subir imagen',
+    IMAGE_BELOW_1MB: 'Las imágenes deben pesar menos de 1MB',
+  },
   INVITES: {
     TEAM_INVITES: 'Invitaciones de equipo',
     TOURNAMENT_INVITES: 'Invitaciones a torneos',
@@ -232,6 +236,11 @@ const es: Translation = {
     LOUNGE: 'Lounge',
     WEBSITE: 'Sitio web',
     DISCORD_INVITE: 'Invitación de Discord',
+  },
+  MARKDOWN: {
+    INPUT: 'Entrada',
+    PREVIEW: 'Vista previa',
+    MARKDOWN_HELP: 'Esta entrada de texto soporta Markdown. Haz clic para ver una lista de sintaxis básica de Markdown.',
   },
   MODERATOR: {
 	  MODERATOR: 'Moderador',
@@ -582,6 +591,23 @@ const es: Translation = {
     SEARCH_BY_NAME: 'Buscar por nombre',
     THIS_PLAYER_IS_BANNED: 'Este jugador está <strong>baneado</strong> y no puede participar en torneos de MKCentral.',
     UNBAN_DATE: 'Fecha de desbaneo',
+  },
+  POSTS: {
+    CREATE_POST: 'Create Post',
+    EDIT_POST: 'Edit Post',
+    POST_TITLE: 'Post Title',
+    VISIBILITY: 'Visibility',
+    PUBLIC: 'Public',
+    HIDDEN: 'Hidden',
+    CONTENT: 'Content',
+    CREATE_EDIT_POST_FAILED: 'Failed to create/edit post',
+    POST_COUNT: '{count} posts',
+    ANNOUNCEMENTS: 'Announcements',
+    SERIES_ANNOUNCEMENTS: 'Series Announcements',
+    TOURNAMENT_ANNOUNCEMENTS: 'Tournament Announcements',
+    BACK_TO_HOMEPAGE: 'Back to Homepage',
+    BACK_TO_ANNOUNCEMENTS: 'Back to Announcements',
+    BACK_TO_POST: 'Back to Post',
   },
   ROLES: {
     USER_ROLES: 'Roles de usuario',
